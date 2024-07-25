@@ -2,6 +2,7 @@
   "expo": {
     "name": "starting-project",
     "slug": "starting-project",
+    "backgroundColor": "#1f1d1d",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
