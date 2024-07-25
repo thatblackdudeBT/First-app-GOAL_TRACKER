@@ -86,11 +86,11 @@ const styles = StyleSheet.create({
     width: "83%",
     borderWidth: 1,
     borderColor: "#6991e9",
-    backgroundColor: "#e1e4e8",
+    backgroundColor: "white",
     borderRadius: 5,
     padding: 15,
     margin: 10,
-    color: "white",
+    color: "#000000",
   },
 });
 
